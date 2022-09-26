@@ -14,7 +14,7 @@ function App() {
   <div class="container flex-nowrap m-2xl  flex justify-between items-center w-screen ">
   <a href="#" class="flex items-center">
       <img src={logo} class="mr-0 lg:h-20 h-10" alt="Synergy Logo" />
-      
+       
   </a>
   <div class="hidden md:flex md:order-2 text-white text-5xl md:text-s">
     <a className="m-7 md:m-3 text-sky-400" href="#"><FaTwitterSquare/></a>
